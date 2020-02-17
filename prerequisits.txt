@@ -1,0 +1,10 @@
+1. Installing Pre-requisits
+	numpy, scipy, matplotlib, networkx
+
+2. if tkinter is missing
+	$ sudo apt -y install python3-tk
+
+3. install pygraphviz
+	$ pip install graphviz pydot
+	$ sudo apt -y install graphviz libgraphviz-dev pkg-config
+	$ pip install pygraphviz
